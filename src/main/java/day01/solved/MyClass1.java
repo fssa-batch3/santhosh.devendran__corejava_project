@@ -1,4 +1,4 @@
-package day01.misc;
+package day01.solved;
 
 public class MyClass1{
 	 // Declare a static variable

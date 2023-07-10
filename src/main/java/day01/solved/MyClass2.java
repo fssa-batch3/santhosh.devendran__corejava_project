@@ -1,4 +1,4 @@
-package day01.misc;
+package day01.solved;
 
 public class MyClass2 {
 	   public int instanceVariable;
