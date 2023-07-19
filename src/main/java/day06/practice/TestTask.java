@@ -23,7 +23,7 @@ public class TestTask {
 		// #Question 2
 		boolean found = findTaskByName("Close the Door", tasks);
 
-		if (found == true) {
+		if (found) {
 			System.out.println("Task Successfully found :) ");
 		} else {
 			System.out.println("Task Not Found :( ");
