@@ -8,7 +8,7 @@ public class CountNames {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter the string: ");
-        String input = scanner.nextLine().trim();
+        String input = scanner.nextLine();
 
         // Split the input by commas and trim any extra spaces
         String[] names = input.split("\\s*,\\s*");
